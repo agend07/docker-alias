@@ -22,6 +22,6 @@ $ curl -fsSL https://raw.github.com/tcnksm/docker-alias/master/zshrc >> ~/.bashr
 - [15 QUICK DOCKER TIPS](http://www.centurylinklabs.com/15-quick-docker-tips/)
 
 
-```coreos - fixed
+```coreos
 cd && mv .bashrc .bashrc_old && curl -fsSL https://raw.github.com/agend07/docker-alias/master/zshrc > ~/.bashrc && source ~/.bashrc
 ```
